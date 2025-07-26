@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "147615733841",
+    "firebase_url": "https://lastnostatefull-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lastnostatefull",
+    "storage_bucket": "lastnostatefull.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147615733841:android:f563ecdb90a1c2da9c8070",
+        "android_client_info": {
+          "package_name": "com.example.last_nostatefull"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrJ5AaRk1hR4CDmhkvTjbFxQ65GgrDo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

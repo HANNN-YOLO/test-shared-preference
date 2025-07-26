@@ -1,0 +1,30 @@
+name: time_many_time
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5
+  # flutter_datetime_picker: ^1.5.1
+  # flutter_time_picker_spinner: ^2.0.0
+  # cupertino_date_picker: ^1.0.26
+  day_night_time_picker: ^1.1.0
+  intl: ^0.20.2
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - packages/day_night_time_picker/assets/sun.png
+    - packages/day_night_time_picker/assets/moon.png
